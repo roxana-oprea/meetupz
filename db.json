@@ -1,1 +1,17 @@
-{}
+
+{
+  "meetups": [
+    {
+      "name": "Angular Meetup",
+      "city": "Miami",
+      "address": "40 Main st",
+      "id": "1"
+    },
+    {
+      "name": "React Meetup",
+      "city": "Los Angeles",
+      "address": "2 Albany st",
+      "id": "2"
+    }
+  ]
+}
