@@ -11,6 +11,12 @@
       "city": "Los Angeles",
       "address": "2 Albany st",
       "id": "2"
+    },
+    {
+      "name": "VueJs",
+      "city": "Cluj-Napoca",
+      "address": "str main ",
+      "id": "B0kXkkj"
     }
   ]
 }
