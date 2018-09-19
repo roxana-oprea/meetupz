@@ -1,4 +1,3 @@
-
 {
   "meetups": [
     {
@@ -12,6 +11,12 @@
       "city": "Los Angeles",
       "address": "2 Albany st",
       "id": "2"
+    },
+    {
+      "name": "Roxana Oprea",
+      "city": "Cluj-Napoca",
+      "address": "bld. Nicolae Titulescu, nr. 38, bl. P18, ap. 34",
+      "id": "_59EXB1"
     }
   ]
 }
